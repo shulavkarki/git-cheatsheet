@@ -6,3 +6,4 @@
 ![image](https://user-images.githubusercontent.com/40908371/170813645-9a80de4a-c16f-47df-9e6b-79ebe2479366.png)
 
 ## 2. Setup
+![image](https://user-images.githubusercontent.com/40908371/170813769-0dd1049b-872c-44d0-ad93-f28b58e6cb3c.png)
