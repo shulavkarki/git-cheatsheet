@@ -18,4 +18,6 @@
 ![image](https://user-images.githubusercontent.com/40908371/170865846-9933ef12-f0ef-4bfd-b204-5a6886646eb2.png)
 
 ## 4. See the local changes
-![image](https://user-images.githubusercontent.com/40908371/171044186-11a460e2-3c4d-42d4-9ef3-7ecf12dc0c63.png)
+<!-- ![image](https://user-images.githubusercontent.com/40908371/171044186-11a460e2-3c4d-42d4-9ef3-7ecf12dc0c63.png) -->
+![image](https://user-images.githubusercontent.com/40908371/171044820-532d0840-46fa-4873-adce-d672233c755b.png)
+
